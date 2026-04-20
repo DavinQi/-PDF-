@@ -45,7 +45,7 @@
 
 
 ### 编程相关
--  [ 变成相关学习 ]([http://www.dxsx.net/index.php](https://github.com/DavinQi/-PDF-/blob/master/%E7%BC%96%E7%A8%8B.md))
+-  [ 变成相关学习 ](https://github.com/DavinQi/-PDF-/blob/master/%E7%BC%96%E7%A8%8B.md)
 
 ##
 
